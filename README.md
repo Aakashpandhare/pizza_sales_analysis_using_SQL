@@ -6,3 +6,6 @@ SELECT
     COUNT(order_id) AS Total_orders
 FROM
     orders;
+
+
+2) 
