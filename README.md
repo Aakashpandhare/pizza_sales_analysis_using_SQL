@@ -8,4 +8,3 @@ FROM
     orders;
 
 
-2) 
