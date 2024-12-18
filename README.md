@@ -1,4 +1,4 @@
-# pizza_sales_analysis_using_SQL
+# pizza_sales_Ad-Hoc Reporting_SQL
 
 1) Retrieve the total number of orders placed.
    
